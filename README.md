@@ -10,3 +10,8 @@
 ## 位运算
 
 * [或运算的最小翻转次数](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/%E6%88%96%E8%BF%90%E7%AE%97%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BF%BB%E8%BD%AC%E6%AC%A1%E6%95%B0.md)
+
+
+## 其它
+
+* [将整数转换为两个无零整数的和](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/%E5%B0%86%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%B8%A4%E4%B8%AA%E6%97%A0%E9%9B%B6%E6%95%B4%E6%95%B0%E7%9A%84%E5%92%8C.md)
