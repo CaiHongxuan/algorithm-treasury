@@ -8,6 +8,8 @@
 
 * [杨辉三角](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)
 
+* [杨辉三角II](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.md)
+
 
 ## 位运算
 
