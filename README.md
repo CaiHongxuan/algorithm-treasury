@@ -10,6 +10,8 @@
 
 * [杨辉三角II](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II.md)
 
+* [反转链表](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
 
 ## 位运算
 
