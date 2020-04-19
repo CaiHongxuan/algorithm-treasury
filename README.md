@@ -14,6 +14,8 @@
 
 * [二叉树的最大深度](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
 
+* [计算 x 的 n 次幂函数](https://github.com/CaiHongxuan/algorithm-treasury/blob/master/recursion/%E8%AE%A1%E7%AE%97%20x%20%E7%9A%84%20n%20%E6%AC%A1%E5%B9%82%E5%87%BD%E6%95%B0.md)
+
 
 ## 位运算
 
